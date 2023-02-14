@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1-5 etc/passwd
+cut -c 1-10 etc/passwd
